@@ -108,6 +108,7 @@ if __name__ == "__main__":
 
 <img width="1465" height="911" alt="Screenshot 2026-11-27 122343" src="https://github.com/user-attachments/assets/d69e1b44-f269-4a79-a88c-c8f8ce8caf51" />
 <img width="706" height="1006" alt="Screenshot 2026-11-27 122353" src="https://github.com/user-attachments/assets/9f550663-bba4-4aa8-b555-b65596f641c5" />
+
 ## RESULT
 The webserver was developed and executed successfully on localhost (127.0.0.1:8000), displaying the list of protocols in the TCP/IP Protocol Suite.
 
